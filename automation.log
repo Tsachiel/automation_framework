@@ -1,0 +1,727 @@
+12/31/2020 01:18:57 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 01:18:58 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 01:18:59 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 01:18:59 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 01:18:59 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 01:18:59 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 01:18:59 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 01:19:06 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 01:19:06 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 01:19:06 PM - LoginPage - INFO: Element Found
+12/31/2020 01:41:11 PM - LoginPage - INFO: Element not found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 01:41:11 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 01:41:11 PM - LoginPage - INFO: Element not found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 01:41:11 PM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 01:41:11 PM - LoginPage - INFO: Element not found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 01:41:11 PM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 01:41:11 PM - LoginPage - INFO: Element not found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 01:41:11 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 01:41:11 PM - LoginPage - INFO: Element not found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 01:41:11 PM - LoginPage - INFO: Element not found
+12/31/2020 01:54:57 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 01:54:58 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 01:54:58 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 01:54:58 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 01:54:58 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 01:54:58 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 01:54:58 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 01:55:00 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 01:55:03 PM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+12/31/2020 01:55:03 PM - LoginPage - INFO: Element not found
+12/31/2020 01:56:26 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 01:56:27 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 01:56:27 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 01:56:27 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 01:56:27 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 01:56:27 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 01:56:27 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 01:56:28 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 01:56:31 PM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+12/31/2020 01:56:31 PM - LoginPage - INFO: Element not found
+12/31/2020 01:56:33 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 01:56:35 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 01:56:35 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 01:56:35 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 01:56:35 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 01:56:35 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 01:56:35 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 01:56:41 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 01:56:41 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 01:56:41 PM - LoginPage - INFO: Element Found
+12/31/2020 01:59:32 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 01:59:33 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 01:59:36 PM - LoginPage - INFO: Element not found with locator: //*[@id='email'] and  locatorType: id
+12/31/2020 01:59:38 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 01:59:39 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 01:59:42 PM - LoginPage - INFO: Element not found with locator: //*[@id='email'] and  locatorType: id
+12/31/2020 02:06:00 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:06:01 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:06:04 PM - LoginPage - INFO: Element not found with locator: //*[@id='email'] and  locatorType: id
+12/31/2020 02:06:06 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:06:07 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:06:10 PM - LoginPage - INFO: Element not found with locator: //*[@id='email'] and  locatorType: id
+12/31/2020 02:06:39 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:06:40 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:06:41 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:06:41 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:06:41 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:06:41 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:06:41 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:06:43 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:06:46 PM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+12/31/2020 02:06:46 PM - LoginPage - INFO: Element not found
+12/31/2020 02:06:48 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:06:49 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:06:49 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:06:49 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:06:49 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:06:49 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:06:49 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:06:55 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:06:55 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:06:55 PM - LoginPage - INFO: Element Found
+12/31/2020 02:09:58 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:09:59 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:09:59 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:09:59 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:09:59 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:09:59 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:09:59 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:10:01 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:10:01 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 02:10:01 PM - LoginPage - INFO: Element Found
+12/31/2020 02:10:03 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:10:04 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:10:04 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:10:04 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:10:04 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:10:05 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:10:05 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:10:10 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:10:10 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:10:10 PM - LoginPage - INFO: Element Found
+12/31/2020 02:31:33 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:31:34 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:31:34 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:31:34 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:31:34 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:31:34 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:31:34 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:31:36 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:31:39 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 02:31:39 PM - LoginPage - INFO: Element not found
+12/31/2020 02:31:39 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:31:40 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:31:40 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:31:41 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:31:41 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:31:41 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:31:41 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:31:46 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:31:46 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:31:46 PM - LoginPage - INFO: Element Found
+12/31/2020 02:33:51 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:33:51 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:33:52 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:33:52 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:33:52 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:33:52 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:33:52 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:33:53 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:33:57 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 02:33:57 PM - LoginPage - INFO: Element not found
+12/31/2020 02:33:57 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:33:58 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:33:58 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:33:58 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:33:58 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:33:58 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:33:58 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:34:04 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:34:04 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:34:04 PM - LoginPage - INFO: Element Found
+12/31/2020 02:37:04 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:37:06 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:37:06 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:37:06 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:37:06 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:37:06 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:37:06 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:37:09 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:37:09 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:37:11 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:37:11 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:37:11 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:37:11 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:37:11 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:37:11 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:37:17 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:37:17 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:37:17 PM - LoginPage - INFO: Element Found
+12/31/2020 02:37:56 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:37:57 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:37:57 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:37:57 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:37:57 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:37:57 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:37:57 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:37:59 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:37:59 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:38:01 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:38:01 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:38:01 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:38:01 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:38:01 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:38:01 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:38:08 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:38:08 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:38:08 PM - LoginPage - INFO: Element Found
+12/31/2020 02:39:13 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:39:14 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:39:14 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:39:14 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:39:14 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:39:14 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:39:14 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:39:16 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:39:16 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:39:18 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:39:18 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:39:18 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:39:18 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:39:18 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:39:18 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:39:25 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:39:25 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:39:25 PM - LoginPage - INFO: Element Found
+12/31/2020 02:40:15 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:40:16 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:40:16 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:40:16 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:40:16 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:40:16 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:40:16 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:40:18 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:40:18 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:40:20 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:40:20 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:40:20 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:40:20 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:40:20 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:40:20 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:40:26 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:40:26 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:40:26 PM - LoginPage - INFO: Element Found
+12/31/2020 02:40:58 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:40:59 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:40:59 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:40:59 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:40:59 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:40:59 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:40:59 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:41:02 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:41:05 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 02:41:05 PM - LoginPage - INFO: Element not found
+12/31/2020 02:41:05 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:41:07 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:41:07 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:41:07 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:41:07 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:41:07 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:41:07 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:41:11 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:41:14 PM - LoginPage - INFO: Element not found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:41:14 PM - LoginPage - INFO: Element not found
+12/31/2020 02:41:48 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:41:49 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:41:49 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:41:49 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:41:49 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:41:49 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:41:49 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:41:51 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:41:54 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 02:41:54 PM - LoginPage - INFO: Element not found
+12/31/2020 02:41:54 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:41:56 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:41:56 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:41:56 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:41:56 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:41:56 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:41:56 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:42:02 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:42:03 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:42:03 PM - LoginPage - INFO: Element Found
+12/31/2020 02:48:48 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:48:49 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:48:49 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:48:49 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:48:49 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:48:49 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:48:49 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:48:51 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:48:51 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:48:52 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:48:52 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:48:52 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:48:52 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:48:53 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:48:53 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:49:00 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:49:00 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:49:00 PM - LoginPage - INFO: Element Found
+12/31/2020 02:51:33 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:51:34 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:51:34 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:51:35 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:51:35 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:51:35 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:51:35 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:51:37 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:51:37 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:51:38 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:51:38 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:51:38 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:51:38 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:51:38 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:51:38 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:51:45 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:52:18 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:52:19 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:52:19 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:52:19 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:52:19 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:52:19 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:52:19 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:52:21 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:52:21 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 02:52:21 PM - LoginPage - INFO: Element Found
+12/31/2020 02:52:21 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 02:52:27 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 02:52:27 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 02:52:27 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 02:52:27 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 02:52:27 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 02:52:27 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 02:52:33 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 02:52:33 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 02:52:33 PM - LoginPage - INFO: Element Found
+12/31/2020 03:05:59 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 03:06:00 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 03:06:00 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 03:06:00 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 03:06:00 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 03:06:00 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 03:06:00 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 03:06:02 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 03:06:02 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 03:06:02 PM - LoginPage - INFO: Element Found
+12/31/2020 03:06:02 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 03:06:05 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 03:06:05 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 03:06:05 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 03:06:05 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 03:06:05 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 03:06:05 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 03:06:12 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 03:06:12 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 03:06:12 PM - LoginPage - INFO: Element Found
+12/31/2020 06:26:35 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:26:36 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:26:36 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:26:36 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:26:36 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:26:36 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:26:36 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:26:38 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:26:41 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:26:41 PM - LoginPage - INFO: Element not found
+12/31/2020 06:26:41 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:26:42 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:26:42 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:26:42 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:26:42 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:26:42 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:26:42 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:26:47 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:26:47 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:26:47 PM - LoginPage - INFO: Element Found
+12/31/2020 06:27:22 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:27:23 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:27:23 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:27:23 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:27:23 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:27:23 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:27:23 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:27:24 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:27:27 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:27:27 PM - LoginPage - INFO: Element not found
+12/31/2020 06:27:27 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:27:29 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:27:29 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:27:29 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:27:29 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:27:29 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:27:29 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:27:34 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:27:34 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:27:34 PM - LoginPage - INFO: Element Found
+12/31/2020 06:28:29 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:28:30 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:28:30 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:28:30 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:28:30 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:28:30 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:28:30 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:28:32 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:28:32 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:28:32 PM - LoginPage - INFO: Element Found
+12/31/2020 06:28:32 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:28:34 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:28:34 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:28:34 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:28:34 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:28:34 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:28:34 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:28:40 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:28:40 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:28:40 PM - LoginPage - INFO: Element Found
+12/31/2020 06:29:24 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:29:25 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:29:25 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:29:25 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:29:25 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:29:25 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:29:25 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:29:26 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:29:26 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:29:26 PM - LoginPage - INFO: Element Found
+12/31/2020 06:29:26 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:29:28 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:29:28 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:29:28 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:29:28 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:29:28 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:29:28 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:29:33 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:29:33 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:29:33 PM - LoginPage - INFO: Element Found
+12/31/2020 06:30:56 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:30:57 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:30:57 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:30:57 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:30:57 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:30:57 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:30:57 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:30:59 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:31:02 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:31:02 PM - LoginPage - INFO: Element not found
+12/31/2020 06:31:02 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:31:03 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:31:04 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:31:04 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:31:04 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:31:04 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:31:04 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:31:09 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:31:09 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:31:09 PM - LoginPage - INFO: Element Found
+12/31/2020 06:32:39 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:32:40 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:32:40 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:32:40 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:32:40 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:32:40 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:32:40 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:32:42 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:32:45 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:32:45 PM - LoginPage - INFO: Element not found
+12/31/2020 06:32:45 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:32:46 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:32:46 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:32:46 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:32:46 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:32:47 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:32:47 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:32:52 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:32:52 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:32:52 PM - LoginPage - INFO: Element Found
+12/31/2020 06:33:15 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:33:16 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:33:16 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:33:16 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:33:16 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:33:16 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:33:16 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:33:18 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:33:18 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:33:18 PM - LoginPage - INFO: Element Found
+12/31/2020 06:33:18 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:33:20 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:33:20 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:33:20 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:33:20 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:33:20 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:33:20 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:33:25 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:33:25 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:33:25 PM - LoginPage - INFO: Element Found
+12/31/2020 06:33:51 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:33:52 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:33:52 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:33:53 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:33:53 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:33:53 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:33:53 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:33:54 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:33:57 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:33:57 PM - LoginPage - INFO: Element not found
+12/31/2020 06:33:57 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:33:58 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:33:58 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:33:58 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:33:58 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:33:59 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:33:59 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:34:04 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:34:04 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:34:04 PM - LoginPage - INFO: Element Found
+12/31/2020 06:35:21 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:35:22 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:35:22 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:35:22 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:35:22 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:35:22 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:35:22 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:35:24 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:35:24 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:35:25 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:35:25 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:35:25 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:35:25 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:35:25 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:35:25 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:35:30 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:35:31 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:35:31 PM - LoginPage - INFO: Element Found
+12/31/2020 06:40:04 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:40:05 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:40:05 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:40:05 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:40:05 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:40:05 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:40:05 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:40:07 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:40:10 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:40:10 PM - LoginPage - INFO: Element Found
+12/31/2020 06:40:10 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:40:11 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:40:11 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:40:11 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:40:11 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:40:11 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:40:11 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:40:16 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:40:16 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:40:16 PM - LoginPage - INFO: Element Found
+12/31/2020 06:40:43 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:40:44 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:40:44 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:40:44 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:40:44 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:40:45 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:40:45 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:40:47 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:40:49 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:40:49 PM - LoginPage - INFO: Element Found
+12/31/2020 06:40:49 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:40:50 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:40:50 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:40:50 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:40:50 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:40:50 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:40:50 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:40:55 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:40:55 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:40:55 PM - LoginPage - INFO: Element Found
+12/31/2020 06:41:52 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:41:53 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:41:53 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:41:53 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:41:53 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:41:53 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:41:53 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:41:55 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:42:00 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:42:00 PM - LoginPage - INFO: Element not found
+12/31/2020 06:42:00 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:42:01 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:42:01 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:42:01 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:42:01 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:42:01 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:42:01 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:42:07 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:42:07 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:42:07 PM - LoginPage - INFO: Element Found
+12/31/2020 06:42:47 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:42:48 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:42:48 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:42:48 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:42:48 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:42:48 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:42:48 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:42:50 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:42:53 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:42:53 PM - LoginPage - INFO: Element Found
+12/31/2020 06:42:53 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:42:54 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:42:54 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:42:54 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:42:54 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:42:54 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:42:54 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:42:59 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:42:59 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:42:59 PM - LoginPage - INFO: Element Found
+12/31/2020 06:44:13 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:44:14 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:44:17 PM - LoginPage - INFO: Element not found with locator: //*[@id='email'] and  locatorType: id
+12/31/2020 06:44:17 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:44:18 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:44:21 PM - LoginPage - INFO: Element not found with locator: //*[@id='email'] and  locatorType: id
+12/31/2020 06:44:50 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:44:51 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:44:51 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:44:51 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:44:51 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:44:51 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:44:51 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:44:53 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:44:56 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 06:44:56 PM - LoginPage - INFO: Element Found
+12/31/2020 06:44:57 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 06:44:58 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 06:44:58 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 06:44:58 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 06:44:58 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 06:44:58 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 06:44:58 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 06:45:03 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 06:45:03 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 06:45:03 PM - LoginPage - INFO: Element Found
+12/31/2020 07:11:56 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 07:11:57 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 07:11:57 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 07:11:57 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 07:11:57 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 07:11:57 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 07:11:57 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 07:11:59 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 07:12:02 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 07:12:02 PM - LoginPage - INFO: Element Found
+12/31/2020 07:12:03 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 07:12:04 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 07:12:04 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 07:12:04 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 07:12:04 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 07:12:04 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 07:12:04 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 07:12:10 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 07:12:10 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 07:12:10 PM - LoginPage - INFO: Element Found
+12/31/2020 07:12:10 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+12/31/2020 07:12:10 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+12/31/2020 07:12:10 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/31/2020 07:30:50 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 07:30:51 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 07:30:51 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 07:30:51 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 07:30:51 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 07:30:51 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 07:30:51 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 07:30:54 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 07:30:57 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+12/31/2020 07:30:57 PM - LoginPage - INFO: Element Found
+12/31/2020 07:30:58 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+12/31/2020 07:30:59 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+12/31/2020 07:30:59 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+12/31/2020 07:30:59 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+12/31/2020 07:30:59 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/31/2020 07:30:59 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/31/2020 07:30:59 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+12/31/2020 07:31:04 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+12/31/2020 07:31:04 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+12/31/2020 07:31:04 PM - LoginPage - INFO: Element Found
+12/31/2020 07:31:04 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+12/31/2020 07:31:04 PM - TestStatus - INFO: ### VERIFICATION FAILED :: + Login was successful
+12/31/2020 07:31:05 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\tsach\OneDrive\Desktop\studies\Projects\automation_framework\base\../screenshots/Login was successful.1609435864841.png
+12/31/2020 07:31:05 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+01/01/2021 01:41:22 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+01/01/2021 01:41:23 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+01/01/2021 01:41:23 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+01/01/2021 01:41:23 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+01/01/2021 01:41:23 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+01/01/2021 01:41:23 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+01/01/2021 01:41:23 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+01/01/2021 01:41:25 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+01/01/2021 01:41:31 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+01/01/2021 01:41:31 PM - LoginPage - INFO: Element not found
+01/01/2021 01:41:32 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+01/01/2021 01:41:33 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+01/01/2021 01:41:33 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+01/01/2021 01:41:34 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+01/01/2021 01:41:34 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+01/01/2021 01:41:34 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+01/01/2021 01:41:34 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+01/01/2021 01:41:42 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+01/01/2021 01:41:42 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+01/01/2021 01:41:42 PM - LoginPage - INFO: Element Found
+01/01/2021 01:41:42 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+01/01/2021 01:42:51 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+01/01/2021 01:42:52 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+01/01/2021 01:42:52 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+01/01/2021 01:42:52 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+01/01/2021 01:42:52 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+01/01/2021 01:42:52 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+01/01/2021 01:42:52 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+01/01/2021 01:42:54 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+01/01/2021 01:42:59 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+01/01/2021 01:42:59 PM - LoginPage - INFO: Element not found
+01/01/2021 01:43:00 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+01/01/2021 01:43:01 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+01/01/2021 01:43:01 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+01/01/2021 01:43:01 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+01/01/2021 01:43:01 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+01/01/2021 01:43:02 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+01/01/2021 01:43:02 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+01/01/2021 01:43:07 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+01/01/2021 01:43:08 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+01/01/2021 01:43:08 PM - LoginPage - INFO: Element Found
+01/01/2021 01:43:08 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+01/01/2021 01:46:48 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+01/01/2021 01:46:49 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+01/01/2021 01:46:50 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+01/01/2021 01:46:50 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+01/01/2021 01:46:50 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+01/01/2021 01:46:50 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+01/01/2021 01:46:50 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+01/01/2021 01:46:52 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+01/01/2021 01:46:54 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Your username or password is invalid. Please try again.')] and  locatorType: xpath
+01/01/2021 01:46:54 PM - LoginPage - INFO: Element Found
+01/01/2021 01:46:55 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar-inverse-collapse']/div/div/a and  locatorType: xpath
+01/01/2021 01:46:56 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='navbar-inverse-collapse']/div/div/a locatorType: xpath
+01/01/2021 01:46:56 PM - LoginPage - INFO: Element found with locator: //*[@id='email'] and  locatorType: xpath
+01/01/2021 01:46:56 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='email'] locatorType: xpath
+01/01/2021 01:46:56 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+01/01/2021 01:46:56 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+01/01/2021 01:46:56 PM - LoginPage - INFO: Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input and  locatorType: xpath
+01/01/2021 01:47:02 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[4]/div[1]/input locatorType: xpath
+01/01/2021 01:47:02 PM - LoginPage - INFO: Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+01/01/2021 01:47:02 PM - LoginPage - INFO: Element Found
+01/01/2021 01:47:02 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+01/01/2021 01:47:02 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+01/01/2021 01:47:02 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+01/01/2021 01:47:02 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+01/01/2021 01:47:02 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+01/01/2021 01:47:02 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
