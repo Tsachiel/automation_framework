@@ -5,8 +5,10 @@ from utilities.teststatus import TestStatus
 import unittest
 import pytest
 import time
+from ddt import ddt, data, unpack
+from utilities.readdata import getCSVData
 
-
+@ddt
 class LoginTests(unittest.TestCase):
     @pytest.fixture(autouse=True)
     def classSetup(self, oneTimeSetUp):
@@ -20,9 +22,12 @@ class LoginTests(unittest.TestCase):
         self.ts.mark(result1, "Title Verified")
         result2 = self.lp.verifyLoginTitle()
         self.ts.markFinal("test_validLogin", result2, "Login was successful")
+
     @pytest.mark.run(order=1)
-    def test_invalidLogin(self):
-        self.lp.login("test@mail.com", "abcabcabc")
-        time.sleep(2)
+    @data(*getCSVData("testdata.csv"))
+    @unpack
+    def test_invalidLogin(self,user,pw):
+        self.lp.login(user, pw)
+        time.sleep(1)
         result = self.lp.verifyLoginFailed()
         assert result == True

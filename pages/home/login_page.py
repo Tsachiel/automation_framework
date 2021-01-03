@@ -46,8 +46,7 @@ class LoginPage(BasePage):
         return result
 
     def verifyLoginFailed(self):
-        result = self.isElementPresent("//span[contains(text(),'Your username or password is invalid. Please try again.')]",
-                                       locatorType="xpath")
+        result= self.verifyPageTitle("Login")
         return result
 
     def clearFields(self):
